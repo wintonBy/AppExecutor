@@ -15,7 +15,7 @@ allprojects {
 ### step2 Add the dependency
 ```
 dependencies {
-	        implementation 'com.github.wintonBy:AppExecutor:1.0'
+	        implementation 'com.github.wintonBy:AppExecutor:1.1'
 	}
 ```
 ## 使用
